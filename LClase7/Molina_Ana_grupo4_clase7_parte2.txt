@@ -1,0 +1,19 @@
+Práctica comparativa 
+
+Objetivo: hacer un análisis comparativo para resolver el problema de Matilda.
+
+En la familia somos tres hermanos y nuestro padre, que se encuentra de viaje en el exterior, nos envió de regalo tres procesadores para nuestras diferentes necesidades, yo (Matilda) le pedí uno para poder jugar al tan esperado Cyberpunk 2077, mi pequeño hermano, Marcelo, en cambio, solamente le pidió uno para ejecutar la suite de Office 2019 y, por último, mi hermano mayor le encargó uno para poder hacer ediciones de video en un programa llamado Wondershare Filmora X.
+
+Estamos confundidos debido a que no los etiqueto con nombres…
+
+Nuestro padre nos envió los siguientes procesadores:
+
+
+    • Amd Ryzen 5
+    • Amd a8
+    • intel i3 3230
+
+¿Cuál es para cada uno?
+
+
+Para Marcelo el procesador indicado sería el Intel i3 3230, ya que este es el de menor potencia y corresponde a los bajos requisitos de procesamiento que se necesitan para ejecutar la suite de Office. Matilda utilizaría el Ryzen 5 ya que el Cyberpunk 2077 es un juego que demanda mucha capacidad de procesamiento, y este procesador es el más potente de los 3. Para el hermano mayor de Matilda, quedaría el procesador AMD A8, el cual es especialmente útil ya que es una APU, lo que quiere decir que no necesita de una GPU por separado para poder visualizar gráficamente el contenido, y podría realizar ediciones de video en el Wondershare Filmora X sin problemas.
