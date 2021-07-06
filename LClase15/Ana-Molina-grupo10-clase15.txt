@@ -1,0 +1,16 @@
+1.Describan con sus palabras lo que acaban de hacer.
+Una vez abierta la maquina virtual, desde la terminal primero ejecutamos el comando
+$ping -x 2 que nos permite comprobar si tenemos conexión a internet. Luego instalamos git,
+para poder clonar el  repositorio de la mochila y finalmente subir este archivo a la clase
+de hoy. 
+
+2.Describir para qué sirve “apt-get”.
+apt-get es el comando en sistemas derivados de debian para instalar programas en linux, borrarlos, actualizar los repositorios y actualizar el sistema desde la linea de comandos. 
+
+3.Describir para qué sirve “su”.
+El comando su es utilizando para cambiar el usuario actual a otro usuario desde SSH. Si uno está en el shell bajo su nombre de usuario, puede cambiar a otro usuario (root por decir) utilizando el comando su. 
+
+4.¿Les resultó familiar esta forma de conectarse a un equipo?
+Si, en la materia venimos viendo el uso de terminal y máquinas virtuales, nos es bastante familiar.
+
+
